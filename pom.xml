@@ -42,7 +42,7 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
           <sonar.projectKey>myweb</sonar.projectKey>
-    <sonar.host.url>http://172.31.2.32:9000</sonar.host.url>
+    <sonar.host.url>http://44.200.250.34:9000</sonar.host.url>
     <sonar.login>YOUR_SONAR_TOKEN</sonar.login>
 
     </properties>
